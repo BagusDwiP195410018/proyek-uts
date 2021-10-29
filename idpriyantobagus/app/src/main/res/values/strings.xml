@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">id.priyanto.bagus</string>
+        <string name="jumlah_hutang">Jumlah Hutang</string>
+        <string name="jumlah_hutang">Jumlah Pinjaman</string>
+
+        <string name="jumlah_hari_hutang">Jumlah Estimasi Hutang</string>
+        <string name="jumlah_hari_hutang">Jumlah Pelunasan Pinjaman</string>
+
+        <string name="estimasi_hutang">Estimasi pelunasan hutang?</string>
+        <string name="estimasi_hutang">Estimasi pelunasan pinjaman?</string>
+
+        <string name="harian_service">Harian</string>
+
+        <string name="bulanan_service">Bulanan</string>
+
+
+        <string name="ajukan_calculate">Ajukan Hutang</string>
+        <string name="ajukan_calculate">Ajukan Pinjaman</string>
+
+        <string name="title">Hutang SUCCESS !!</string>
+        <string name="title">Pinjaman berhasil !!</string>
+
+        <string name="content_description_media">Gambar Hutang</string>
+
+        <string name="jumlah_hutang">%s</string>
+        <string name="jumlah_hari">Jumlah Hari: %5 %5</string>
+        <string name="jumlah_bunga">Jumlah Bunga: %5</string>
+        <string name="textview">TextView</string>
+        <string name="favorite">Favorite</string>
+        <string name="search">Seacrh</string>
+        <string name="more">More</string>
+    <string name="mingguan">Mingguan</string>
+</resources>
